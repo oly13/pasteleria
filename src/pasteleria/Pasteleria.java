@@ -10,7 +10,7 @@ package pasteleria;
  * @author hola
  */
 public class Pasteleria {
-    private int aux = 20;
+    private int aux = 1;
     /**
      * @param args the command line arguments
      */
